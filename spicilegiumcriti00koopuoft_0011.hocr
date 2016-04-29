@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./spicilegiumcriti00koopuoft_0011.png"; bbox 0 0 2488 4042; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 507 1756 1747 1828">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 507 1756 1747 1828">
+     <span class='ocr_line' id='line_1_1' title="bbox 507 1756 1747 1828; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 507 1775 510 1777; x_wconf 72' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 650 1758 1025 1828; x_wconf 85' lang='lat' dir='ltr'>DILECTI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1035 1756 1382 1827; x_wconf 83' lang='lat' dir='ltr'>SSIMAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1433 1757 1747 1825; x_wconf 88' lang='lat' dir='ltr'>MATRI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 390 2055 2020 2175">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 390 2055 2020 2175">
+     <span class='ocr_line' id='line_1_2' title="bbox 390 2055 2020 2175; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 390 2055 871 2175; x_wconf 74' lang='lat' dir='ltr'>CARlsslml</span> <span class='ocrx_word' id='word_1_6' title='bbox 932 2105 1271 2174; x_wconf 78' lang='lat' dir='ltr'><strong>PATRIS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1323 2104 1501 2174; x_wconf 81' lang='lat' dir='ltr'>Pus</span> <span class='ocrx_word' id='word_1_8' title='bbox 1551 2103 2020 2175; x_wconf 81' lang='lat' dir='ltr'><strong>MANIBUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
